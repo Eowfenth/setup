@@ -7,19 +7,19 @@ I am currently using the astonishing artwork of [Simon Stålenhag](https://twitt
 ## Icon Pack Theme
     
 ## User Icon
-     (/resources/user-icon-cropped.png)
+     [User Icon](https://github.com/Eowfenth/workspace-settings/blob/master/linux/resources/user-icon-cropped.jpg)
 
-## Background 
+## Default Wallpaper
 
-    (/resources/background.png)
+    [Default Wallpaper](https://github.com/Eowfenth/workspace-settings/blob/master/linux/resources/main-background.jpg)
 
 ## Lock Background
 
-    (/resources/lock-background.png)
+    [Lock Wallpaper](https://github.com/Eowfenth/workspace-settings/blob/master/linux/resources/lock-background.jpg)
 
 ## Login Background
 
-    (/resources/login-background.png)
+    [Login Wallpaper](https://github.com/Eowfenth/workspace-settings/blob/master/linux/resources/login-background-cropped.jpg)
 
 ### Troubleshooting
 
