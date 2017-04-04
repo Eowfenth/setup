@@ -13,15 +13,12 @@
     Flame Heart
         994
     
-| ------------ |      Gig      | ---------------- |
-
-| ------------ | ------------- | ---------------- |
-
-|    ID       |   Item Name   | Value per Weight |
-    
-| ------------ | ------------- | ---------------- |
-
-
+| Gig |
+| ID        | Item Name           | Value per Weight  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 # Blazzer
 7097
