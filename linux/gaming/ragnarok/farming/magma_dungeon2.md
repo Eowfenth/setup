@@ -1,15 +1,23 @@
 #### Magma Dungeon 2 - Farming Statistics
 
-|         |       Gig         |                   |
+|         |       **Gig**         |                   |
 | ------- | ----------------- | ----------------- |
-| ID      | Name              | value per weight  |
+| **ID**      | **Name**              | **value per weight**  |
 | 7125	  | Scorpion Claw     | 353               |
 | 904	  | Scorpion Tail     | 62                |
 | 716	  | Red Gemstone      | 100               |
 | 525	  | Panacea           | 25                |
 | 994	  | Flame Heart       | 50                |
-| 4165	  | Gig Card          | N/A               |
+| 4165	  | Gig Card          | *N/A*               |
 |         |                   |                   |
+
+|         |       **Blazzer**         |                   |
+| ------- | ----------------- | ----------------- |
+| **ID**      | **Name**              | **value per weight**  |
+| 7097	| Burning Heart     | 462               |
+| 7098	| Live Coal     | 319                |
+| 509	 | White Herb      | 8.6               |
+| 4215	| Blazzer Card           | *N/A*                |
 
 # Blazzer
 7097
