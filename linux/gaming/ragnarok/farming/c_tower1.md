@@ -1,6 +1,6 @@
 #### Clock Tower 1 - Farming Analysis
 
-|         |       **Gig**         |                   |
+| *Neutral*  |       **Rideword**         |                   |
 | ------- | ----------------- | ----------------- |
 | **ID**      | **Name**              | **value per weight**  |
 | 1097	  | Worn Out Page     | 353               |
