@@ -1,4 +1,7 @@
+#Version 0.0.1
+
 # 1. Add the Spotify repository signing key to be able to verify downloaded packages
+echo "Installing spotify."
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys BBEBDCB318AD50EC6865090613B00F1FD2C19886
 
 # 2. Add the Spotify repository

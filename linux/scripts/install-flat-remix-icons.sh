@@ -1,3 +1,4 @@
+ echo "Installing Flat Remix icons"
  git clone https://github.com/daniruiz/Flat-Remix
  mkdir -p ~/.icons
  #mv "Flat-Remix/Flat Remix" ~/.icons

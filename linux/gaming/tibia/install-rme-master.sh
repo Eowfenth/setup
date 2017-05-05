@@ -2,13 +2,13 @@
 sudo apt-get install git cmake libboost-system-dev libboost-thread-dev libglu1-mesa-dev libwxgtk3.0-dev libarchive-dev freeglut3-dev libxmu-dev libxi-dev
 
 # ~
-cd ~/projects/
+cd ~/projects/ilium/ 
 
 # 2. Clone the project
-git clone https://github.com/hjnilsson/rme.git
+git clone https://github.com/hjnilsson/rme.git map-editor
 
 # Go to RME Folder
-cd rme
+cd map-editor
 
 # Preparing to build
 mkdir build && cd build
