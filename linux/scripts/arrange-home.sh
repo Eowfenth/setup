@@ -1,7 +1,7 @@
 
 
 cd ~/ 
-mkdir -p applications/ cubos/ dev/ packages/extensions/ packages/icons/ packages/themes/ 
+mkdir -p applications/ cubos/ dev/ deps/ packages/extensions/ packages/icons/ packages/themes/ 
 mkdir -p fork/ projects/ writing/ exercises/ gaming/ tmp/
 echo "Home directories were created."
 
