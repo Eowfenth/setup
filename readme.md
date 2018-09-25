@@ -38,7 +38,9 @@ Notebook:
 
 Mobile:
     - Quantum Fly 8GB Ram, 32GB Storage
+
     - Android 6.0 OEM Stock
+    
     - Nova Launcher, System Icons
 
 ## System Setup
